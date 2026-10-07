@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "harderoverhaulcraft:block/compressed_cobblestone"
+  }
+}

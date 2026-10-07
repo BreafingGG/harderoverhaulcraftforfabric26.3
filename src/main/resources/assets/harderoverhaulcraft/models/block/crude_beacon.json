@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "harderoverhaulcraft:block/crude_beacon_top",
+    "side": "harderoverhaulcraft:block/crude_beacon_side",
+    "bottom": "harderoverhaulcraft:block/crude_beacon_bottom"
+  }
+}

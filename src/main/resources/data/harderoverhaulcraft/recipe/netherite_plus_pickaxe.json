@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "input": "minecraft:netherite_pickaxe",
+  "material": "minecraft:gold_block",
+  "result": {
+    "id": "harderoverhaulcraft:netherite_plus_pickaxe"
+  }
+}

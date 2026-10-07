@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "harderoverhaulcraft:compressed_cobblestone"
+  ],
+  "result": {
+    "id": "minecraft:cobblestone",
+    "count": 9
+  }
+}

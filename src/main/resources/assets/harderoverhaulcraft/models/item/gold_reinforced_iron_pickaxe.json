@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "harderoverhaulcraft:item/gold_reinforced_iron_pickaxe"
+  }
+}

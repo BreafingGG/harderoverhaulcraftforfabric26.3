@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:glass",
+    "I": "minecraft:iron_block",
+    "L": "minecraft:glowstone"
+  },
+  "pattern": [
+    "GGG",
+    "GIG",
+    "ILI"
+  ],
+  "result": {
+    "id": "harderoverhaulcraft:crude_beacon"
+  }
+}

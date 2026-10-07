@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "harderoverhaulcraft:compressed_cobblestone",
+    "C": "minecraft:crafting_table"
+  },
+  "pattern": [
+    "###",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "id": "harderoverhaulcraft:rock_shaper"
+  }
+}

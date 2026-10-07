@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "input": "minecraft:iron_sword",
+  "material": "minecraft:gold_ingot",
+  "result": {
+    "id": "harderoverhaulcraft:gold_reinforced_iron_sword"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "harderoverhaulcraft",
+  "version": "${version}",
+  "name": "HarderOverhaulCraft",
+  "description": "Harder progression: nugget smelting, rock shards, Rock Shaper, upgraded tools and tiered beacons.",
+  "authors": [
+    "HarderOverhaulCraft"
+  ],
+  "license": "CC0-1.0",
+  "icon": "assets/harderoverhaulcraft/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.harderoverhaulcraft.HarderOverhaulCraft"
+    ],
+    "client": [
+      "com.harderoverhaulcraft.client.HarderOverhaulCraftClient"
+    ],
+    "jei_mod_plugin": [
+      "com.harderoverhaulcraft.client.jei.HocJeiPlugin"
+    ]
+  },
+  "mixins": [
+    "harderoverhaulcraft.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "jei": "*"
+  }
+}

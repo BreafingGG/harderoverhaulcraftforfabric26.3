@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "input": "minecraft:diamond_axe",
+  "material": "minecraft:gold_block",
+  "result": {
+    "id": "harderoverhaulcraft:diamond_plus_axe"
+  }
+}
